@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  color: white;
+  background-color: black;
+  width: 1024px;
+  margin:0 auto;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, span,{
+  overflow: hidden;
+}
+
+.clearfix {
+  clear:both;
+}

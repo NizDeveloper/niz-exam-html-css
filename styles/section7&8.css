@@ -1,0 +1,182 @@
+.section7 {
+  width: 944px;
+  padding: 60px 40px 100px 40px;
+}
+
+.sec7heading {
+  text-align: center;
+}
+.sec7heading span {
+  font-size: 16px;
+  color: #2904fa;
+}
+.sec7heading h2 {
+  font-size: 33px;
+  font-weight: 600;
+}
+.sec7heading>*+* {
+  margin-top: 5px;
+}
+
+.teamcontainer {
+  margin-top: 50px;
+}
+
+.teamcolumn {
+  float: left;
+  width: 25%;
+}
+
+.teamgap {
+  padding: 0px 10px;
+}
+
+.teamcard {
+  border: 1px solid #4F4F4F;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+.teamcontent {
+  padding: 10px 10px 15px 10px;
+  text-align: center;
+}
+.teamtext {
+  margin-top: 15px;
+}
+
+
+.teamimg {
+  width: 100%;
+}
+.teamimg img {
+  width: 100%;
+  height: 100%;
+  border-radius: 7px;
+}
+.teamcontent h3 {
+  font-size: 20px;
+}
+.teamcontent span {
+  color: #2904fa;
+  display: block;
+}
+
+.teamicons {
+  margin-top: 15px;
+  align-items: center;
+  padding: 0px 35px;
+}
+
+.teamsocial {
+  float: left;
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+}
+.teamsocial img {
+  width: 100%;
+  height: 100%;
+}
+.teamsocial:hover {
+  background-color: gray;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+
+
+
+
+
+
+/*Seccion 8*/
+.section8 {
+  width: 944px;
+  padding: 60px 40px 40px 40px;
+}
+.sec8heading {
+  text-align: center;
+}
+.sec8heading span {
+  font-size: 16px;
+  color: #2904fa;
+}
+.sec8heading h2 {
+  font-size: 33px;
+  font-weight: 600;
+}
+.sec8heading>*+* {
+  margin-top: 5px;
+}
+
+.blog {
+  margin-top: 40px;
+}
+.blogcolumn {
+  float: left;
+  width: 32%;
+  padding: 0px 6px;
+}
+.imgblog1 {
+  float: left;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/blog/1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 7px;
+}
+.imgblog2 {
+  float: left;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/blog/2.jpg);
+  background-size: cover;
+  border-radius: 7px;
+}
+.imgblog3 {
+  float: left;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/blog/3.jpg);
+  background-size: cover;
+  border-radius: 7px;
+}
+
+.imgblogcontent {
+  padding: 177px 15px 15px 15px;
+}
+.imgblogcontent1 {
+  padding: 145.5px 15px 15px 15px;
+}
+.imgblogcontent1 span {
+  font-size: 14px;
+}
+.imgblogcontent1 h3 {
+  font-size: 25px;
+}
+.imgblogcontent1 a {
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+}
+.imgblogcontent1 a:hover {
+  color: #19A7CE;
+}
+.imgblogcontent1>*+* {
+  margin-top: 5px;
+}
+
+
+.imgblogcontent span {
+  font-size: 14px;
+}
+.imgblogcontent h3 {
+  font-size: 25px;
+}
+.imgblogcontent a {
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+}
+.imgblogcontent a:hover {
+  color: #19A7CE;
+}
+.imgblogcontent>*+* {
+  margin-top: 5px;
+}

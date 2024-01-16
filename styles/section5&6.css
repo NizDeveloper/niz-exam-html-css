@@ -1,0 +1,249 @@
+/*Seccion 5*/
+.section5 {
+  width: 944px;
+  padding: 50px 40px;
+}
+
+.sec5heading {
+  text-align: center;
+}
+.sec5heading span {
+  color: #2904fa;
+  font-size: 18px;
+}
+.sec5heading h2 {
+  font-size: 33px;
+  font-weight: bold;
+}
+.sec5heading>*+* {
+  margin-top: 10px;
+}
+
+.road {
+  width: 100%;
+  margin-top: 60px;
+}
+
+.emptyR  {
+  float: left;
+  width: 371px;
+  padding: 35px 15px;
+  text-align: right;
+}
+.emptyL {
+  float: left;
+  width: 371px;
+  padding: 35px 0px;
+  text-align: left;
+}
+.number {
+  float: left;
+  text-align: center;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  margin: 0px 30px;
+  border-radius: 50%;
+  border: solid 5px #FFF;
+  background: linear-gradient(70deg, #3605f9, #e504e9);
+}
+.number hr {
+  transform: rotate(90deg);
+  width: 110px;
+  position: relative;
+  top: 60px;
+  right: 22px;
+  border-color: #1A1A26;
+}
+
+.roadtextR {
+  float: left;
+  width: 330px;
+  padding: 35px 35px 25px;
+  background: linear-gradient(90deg, rgba(53, 16, 192, 0.31) 0%, rgba(217, 217, 217, 0.03) 100%);
+}
+.roadtextR h3 {
+  font-size: 25px;
+}
+.roadtextR>*+* {
+  margin-top: 20px;
+}
+
+.road2 {
+  width: 100%;
+}
+.roadtextL {
+  float: left;
+  width: 329px;
+  padding: 35px 35px 25px;
+  background: linear-gradient(90deg, rgba(53, 16, 192, 0.31) 0%, rgba(217, 217, 217, 0.03) 100%);
+}
+.roadtextL h3 {
+  font-size: 25px;
+}
+.roadtextL>*+* {
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/*Seccion 6*/
+.section6 {
+  width: 944px;
+  padding: 60px 40px 100px 40px;
+}
+.sec6heading {
+  text-align: center;
+}
+.sec6heading>*+* {
+  margin-top: 5px;
+}
+.sec6heading span {
+  font-size: 16px;
+  color: #2904fa;
+  width: 100%;
+}
+.sec6heading h2 {
+  font-size: 33px;
+  font-weight: 600;
+}
+
+.gallerycontainer {
+  margin-top: 25px;
+}
+
+.gallerycol {
+  float: left;
+  width: 33.33%;
+}
+
+.gap {
+  padding: 0px 10px;
+}
+
+.gallerycard {
+  border: 1px solid #1A1A26;
+  border-radius: 10px;
+  background: #1A1A26;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+.gallerycontent {
+  padding: 10px;
+}
+
+.galleryimg1 {
+  height: 279px;
+  width: 100%;
+  border-radius: 10px;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/auction/1.jpg);
+  background-size: contain;
+  background-size: cover;
+}
+.galleryimg2 {
+  height: 279px;
+  width: 100%;
+  border-radius: 10px;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/auction/2.jpg);
+  background-size: contain;
+  background-size: cover;
+}
+.galleryimg3 {
+  height: 279px;
+  width: 100%;
+  border-radius: 10px;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/auction/3.jpg);
+  background-size: contain;
+  background-size: cover;
+}
+.galleryimg4 {
+  height: 279px;
+  width: 100%;
+  border-radius: 10px;
+  background-image: url(https://themesvila.com/html-templates/nifto/assets/img/auction/4.jpg);
+  background-size: cover;
+}
+
+.like a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  margin-left: 10px;
+  padding: 0px 10px;
+  border-radius: 7px;
+  background: linear-gradient(70deg, #3605f9, #e504e9);
+}
+.like svg {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  top: 2px;
+}
+.like a:hover {
+  background: linear-gradient(70deg, #e504e9, #3605f9);
+}
+.like a:hover svg {
+  fill: #FF0000;
+}
+
+.time {
+  padding: 0px 9px;
+  margin: 250px 73.455px 0px 73.455px;
+  color: #000;
+  border-radius: 10px;
+  background-color: white;
+}
+.plug {
+  float: left;
+  width: 14px;
+  height: 14px;
+}
+.plug img {
+  width: 100%;
+  height: 100%;
+}
+
+.gallerycontent h3 {
+  font-size: 20px;
+  text-decoration: none;
+  color: #FFFFFF;
+  margin-top: 25px;
+  display: block;
+}
+
+.creator {
+  float: left;
+  width: 60%;
+  margin-top: 15px;
+}
+.creator>*+* {
+  margin-top: 5px;
+}
+.creatorimg {
+  float: left;
+  width: 40px;
+  height: 40px;
+  margin-right: 13px;
+}
+.creatorimg img {
+  width: 100%;
+  height: 100%;
+}
+
+.place {
+  float: right;
+  text-align: right;
+  width: 40%;
+  margin-top: 15px;
+}
+.place>*+* {
+  margin-top: 7px;
+}

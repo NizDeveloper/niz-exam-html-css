@@ -1,0 +1,86 @@
+/*Seccion 3*/
+.section3 {
+  width: 844px;
+  padding: 70px 90px;
+}
+
+.sec3col {
+  float: left;
+  width: 25%
+}
+
+.nftgap {
+  padding: 0px 10px;
+}
+
+.sec3conten {
+  background-color: #1A1A26;
+  padding: 20px;
+  border-radius: 7px;
+}
+
+.sec3img {
+  width: 140px;
+  height: 26px;
+}
+.sec3img img {
+  width: 100%;
+  height: 100%;
+}
+
+
+/*Seccion 4*/
+.section4 {
+  width: 944px;
+  padding: 40px;
+}
+.sec4col1, .sec4col2 {
+  padding: 0px 15px;
+}
+
+/*Columna 1*/
+.se4col1 {
+  float: left;
+  width: 47%;
+  padding: 0px 15px;
+}
+.treeimages {
+  width: 443px;
+  height: 330px;
+}
+.treeimages img {
+  width: 100%;
+  height:100%;
+}
+
+/*Columna 2*/
+.sec4col2 {
+  float: left;
+  width: 46%;
+}
+.sec4contain a {
+  font-size: 16px;
+  color:#2904fa;
+}
+.sec4contain h2 {
+  font-size: 48px;
+}
+.sec4contain>*+* {
+  margin-top: 15px;
+}
+.sec4button {
+  margin-top: 40px;
+}
+.sec4button a {
+  display: inline-block;
+  text-decoration: none;
+  color:#fff;
+  padding: 15px 30px;
+  border: solid 1px;
+  border-radius: 10px;
+  border-color: #000;
+  background: linear-gradient(70deg, #3605f9, #e504e9);
+}
+.sec4button a:hover {
+  background: linear-gradient(70deg, #e504e9, #3605f9);
+}
